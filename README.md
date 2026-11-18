@@ -12,14 +12,14 @@ systems, software, or aerospace/defense.
 | Project | What it does | Built with |
 | --- | --- | --- |
 | [**Apogee**](https://github.com/Creedy06/apogee) | Rocket telemetry ground station. Decodes binary radio packets (CRC-16, resync, packet loss) and runs a Kalman filter that cuts altitude error about 7x | Python, matplotlib |
-| [**Nibble**](https://github.com/Creedy06/nibble) | An 8-bit CPU: my own 16-opcode instruction set, an emulator, and a two-pass assembler | Python |
+| [**Nibble**](https://github.com/Creedy06/nibble) · [▶ live demo](https://creedy06.github.io/nibble/) | An 8-bit CPU: my own 16-opcode instruction set, an emulator, and a two-pass assembler. Runs in your browser | Python, JavaScript |
 | [**Gatewise**](https://github.com/Creedy06/gatewise) | Boolean logic simplifier: truth tables, Quine–McCluskey minimization, and Verilog output | Python, Verilog |
 
 All three have automated test suites that run on every push with GitHub Actions.
 
 ## Tools
 
-`Python` · `MATLAB` · `Verilog` · `Git` · `GitHub Actions` · `pytest`
+`Python` · `JavaScript` · `MATLAB` · `Verilog` · `Git` · `GitHub Actions` · `pytest`
 
 ## Reach me
 
